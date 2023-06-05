@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Group 5 ICT 10 - Hermes</title>
+</head>
+<body>
+  <h1>Group 5 ICT 10 - Hermes </h1>
+  <ul>
+    <li>Micaella P. Matibag</li>
+    <li>Sharie Khate Jaen</li>
+    <li>Irish Lee Villar</li>
+    <li>Avril Jane Arellano</li>
+    <li>Mej Herry Herrera</li>
+    <li>Vindavies Mones</li>
+    <li>Denzel Cris Manzano</li>
+    <li>Edward Shaka Fraser</li>
+    <li>Fritz Goddiel Chumacera</li>
+  </ul>
+</body>
+</html>
